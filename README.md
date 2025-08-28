@@ -1,6 +1,8 @@
 <!-- Banner arriba (puedes cambiar la URL por una imagen tuya o un banner creado en Canva) -->
 ![Banner](https://media.tenor.com/8m-LjBKtWl4AAAAC/programmer.gif)
-
+<p align="center">
+  <img src="https://media.tenor.com/8m-LjBKtWl4AAAAC/programmer.gif" width="600">
+</p>
 
 # 👋 Hola, soy **Valentín Ezequiel Nuñez**  
 
