@@ -1,5 +1,5 @@
 <!-- Banner arriba (puedes cambiar la URL por una imagen tuya o un banner creado en Canva) -->
-![Banner](https://i.ibb.co/6bR0gDY/github-banner.png)
+![Banner](https://tenor.com/bVXKL.gif)
 
 # 👋 Hola, soy **Valentín Ezequiel Nuñez**  
 
