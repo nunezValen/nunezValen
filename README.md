@@ -1,5 +1,8 @@
 <!-- Banner arriba (puedes cambiar la URL por una imagen tuya o un banner creado en Canva) -->
-<div class="tenor-gif-embed" data-postid="26168377" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/bloodborne-gif-26168377">Bloodborne GIF</a>from <a href="https://tenor.com/search/bloodborne-gifs">Bloodborne GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://github.com/nunezValen/nunezValen/blob/main/bloodborne.gif?raw=true" width="700" alt="Banner">
+</p>
+
 
 # 👋 Hola, soy **Valentín Ezequiel Nuñez**  
 
@@ -19,18 +22,18 @@
 
 ## 📊 Mis estadísticas en GitHub  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valennunez&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valennunez&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nunezValen&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezValen&layout=compact&theme=radical" alt="Top Langs" height="160"/>
 </p>
 
 ---
 
 ## 🌐 Conectemos  
 <p align="center">
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:valentin1333@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario/">
+  <a href="[https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/valentin-ezequiel-nuñez-8009a726b)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://valennunez.github.io/">
@@ -43,9 +46,10 @@
 ## ⚡ Un poco más sobre mí  
 ```js
 const valen = {
-  nombre: "Valentín Nuñez",
+  nombre: "Valentín Ezequiel Nuñez",
+  edad: 21,
   rol: "Desarrollador Web",
   estudios: ["Analista Programador Univ. (último cuatrimestre)", "Lic. en Sistemas (3er año)"],
-  lenguajes: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
-  pasión: "Aprender, crear y compartir conocimiento 🚀"
+  lenguajes: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C", "Java"],
+  pasión: "Aprender y seguir creciendo 🚀"
 }
