@@ -1,4 +1,3 @@
-<!-- Banner arriba (puedes cambiar la URL por una imagen tuya o un banner creado en Canva) -->
 <p align="center">
   <img src="https://github.com/nunezValen/nunezValen/blob/main/bloodborne.gif?raw=true" width="700" alt="Banner">
 </p>
@@ -15,7 +14,7 @@
 
 ## 🚀 Tecnologías & Lenguajes  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,mysql,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,nodejs,ruby,java,php,python,git,github,mysql,sqlite,linux" />
 </p>
 
 ---
