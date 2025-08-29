@@ -1,8 +1,5 @@
 <!-- Banner arriba (puedes cambiar la URL por una imagen tuya o un banner creado en Canva) -->
-![Banner](https://media.tenor.com/8m-LjBKtWl4AAAAC/programmer.gif)
-<p align="center">
-  <img src="https://media.tenor.com/8m-LjBKtWl4AAAAC/programmer.gif" width="600">
-</p>
+<div class="tenor-gif-embed" data-postid="26168377" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/bloodborne-gif-26168377">Bloodborne GIF</a>from <a href="https://tenor.com/search/bloodborne-gifs">Bloodborne GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 👋 Hola, soy **Valentín Ezequiel Nuñez**  
 
