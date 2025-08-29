@@ -55,10 +55,10 @@ const valen = {
 ```
 ## 📂 Proyectos
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=Primera-app-celu&theme=radical)](https://github.com/nunezValen/Primera-app-celu)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=To-do-list-con-python&theme=radical)](https://github.com/nunezValen/To-do-list-con-python)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=Primera-app-celu&theme=radical&cache_seconds=0)](https://github.com/nunezValen/Primera-app-celu)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=To-do-list-con-python&theme=radical&cache_seconds=0)](https://github.com/nunezValen/To-do-list-con-python)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=Sistema-Peluqeuria&theme=radical)](https://github.com/nunezValen/Sistema-Peluqeuria)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=bot&theme=radical)](https://github.com/nunezValen/bot)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=bot&theme=radical&cache_seconds=0)](https://github.com/nunezValen/bot)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=Alquil.Ar&theme=radical)](https://github.com/nunezValen/Alquil.Ar)
 
 ## 🎓 Facultad
