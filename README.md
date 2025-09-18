@@ -35,7 +35,7 @@
   <a href="[https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/valentin-ezequiel-nuñez-8009a726b)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://valennunez.github.io/">
+  <a href="https://portafolio-tur.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" />
   </a>
 </p>
