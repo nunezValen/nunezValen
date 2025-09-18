@@ -56,11 +56,8 @@ const valen = {
 
 ## 💼 Portafolio  
 
-<p align="center">
-  <a href="https://portafolio-tur.pages.dev">
-    <img src="https://img.shields.io/badge/🌐%20Mi%20Portafolio-ff5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio"/>
-  </a>
-</p>
+[![Visitar Portafolio](https://img.shields.io/badge/🚀%20Visitar%20Portafolio-blueviolet?style=for-the-badge)](https://portafolio-tur.pages.dev)
+
 
 
 
