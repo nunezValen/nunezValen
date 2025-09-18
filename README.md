@@ -56,7 +56,12 @@ const valen = {
 
 ## 💼 Portafolio  
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Visitar%20mi%20Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-tur.pages.dev)
+<p align="center">
+  <a href="https://portafolio-tur.pages.dev">
+    <img src="https://img.shields.io/badge/🌐%20Mi%20Portafolio-ff5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio"/>
+  </a>
+</p>
+
 
 
 ## 📂 Proyectos
