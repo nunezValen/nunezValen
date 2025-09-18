@@ -53,6 +53,10 @@ const valen = {
   pasión: "Aprender y seguir creciendo 🚀"
 }
 ```
+
+## 💼 Portafolio
+https://portafolio-tur.pages.dev
+
 ## 📂 Proyectos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nunezValen&repo=Primera-app-celu&theme=radical&cache_seconds=0)](https://github.com/nunezValen/Primera-app-celu)
